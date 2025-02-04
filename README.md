@@ -4,10 +4,11 @@
 
 Meu nome é Fernando Prado Bertuolo, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Ciências da Computação na Universidade São Judas Tadeu (USJT). Sou iniciante na área e estou compartilhando aqui meus projetos de estudo.
 
+[![Portifolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-mauve-tau-86.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-prado-bertuolo-b74483345/)
 [![Instagram](https://img.shields.io/badge/Instagram-AB2B28?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fehpradob_/)
 
-![Bertuolo GitHub stats](https://github-readme-stats.vercel.app/api?username=devbertuolo&show_icons=true&theme=graywhite )
+![Bertuolo GitHub stats](https://github-readme-stats.vercel.app/api?username=devbertuolo&show_icons=true&theme=graywhite)
 
 ---
 
